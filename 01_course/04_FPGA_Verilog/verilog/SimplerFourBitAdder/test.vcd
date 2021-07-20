@@ -1,0 +1,42 @@
+$date
+	Sat Jul 17 11:10:01 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module FourBitAdderTB $end
+$var wire 5 ! C [4:0] $end
+$var reg 4 " A [3:0] $end
+$var reg 4 # B [3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx #
+bx "
+bx !
+$end
+#1000
+b111 !
+b100 #
+b11 "
+#2000
+b101 !
+b101 #
+b0 "
+#3000
+b1011 !
+b10 #
+b1001 "
+#4000
+b10100 !
+b1010 #
+b1010 "
+#5000
+b11110 !
+b1111 #
+b1111 "
+#6000

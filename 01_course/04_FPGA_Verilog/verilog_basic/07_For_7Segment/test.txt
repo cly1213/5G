@@ -1,0 +1,17 @@
+VCD info: dumpfile 7segment.vcd opened for output.
+ 0  1
+ 1 79
+ 2 18
+ 3  6
+ 4 76
+ 5 36
+ 6 32
+ 7 15
+ 8  0
+ 9  4
+10127
+11127
+12127
+13127
+14127
+15127

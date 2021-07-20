@@ -1,0 +1,73 @@
+$date
+	Wed Aug 19 17:51:32 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tristate_TB $end
+$var wire 1 ! out3 $end
+$var wire 1 " out2 $end
+$var wire 1 # out1 $end
+$var reg 1 $ en $end
+$var reg 1 % in $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0$
+z#
+z"
+z!
+$end
+#5
+z!
+1%
+#10
+z!
+0%
+#15
+z!
+1%
+#20
+0#
+0"
+0%
+0!
+1$
+#25
+1#
+1"
+1!
+1%
+#30
+0#
+0"
+0!
+0%
+#35
+1#
+1"
+1!
+1%
+#40
+z#
+z"
+0%
+z!
+0$
+#45
+z!
+1%
+#50
+z!
+0%
+#55
+z!
+1%
+#60
+z!
+0%

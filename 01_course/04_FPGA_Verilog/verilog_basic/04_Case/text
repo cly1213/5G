@@ -1,0 +1,6 @@
+@0ns default is selected, opcode 0000
+@2ns 4'b1zzx is selected, opcode 101x
+@4ns 4'b01?? is selected, opcode 0101
+@6ns 4'b001? is selected, opcode 0010
+@8ns default is selected, opcode 0000
+@10ns default is selected, opcode 0000

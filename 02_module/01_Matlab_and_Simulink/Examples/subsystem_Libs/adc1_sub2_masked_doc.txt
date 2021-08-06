@@ -1,0 +1,14 @@
+Description
+-----------
+Simulates typical ADC impairments. Mask parameters control the degree of impairment simulated by the block.
+
+
+Help
+----
+Minimum aperture delay and Maximum aperture delay: These control the aperture jitter for the ADC.
+
+Nonlinear gain: This parameter controls the amount of nonlinear distortion in the ADC transfer function.
+
+No. of quantization bits: Specifies the number of quantization bits for the ADC.
+
+

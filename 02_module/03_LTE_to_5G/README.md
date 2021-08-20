@@ -1,9 +1,9 @@
 # 5G with MATLAB
 https://www.3gpp.org/
 
-From
+From https://www.3gpp.org/release-15
 
-https://www.3gpp.org/release-15
+https://www.3gpp.org/specifications/specification-numbering
 
 ## 5G NR Physical Layer
 - TS 38.212: Multiplexing and Channel Coding
@@ -12,3 +12,6 @@ https://www.3gpp.org/release-15
 
 ## Simulation
 - TR 38.901: Channel Models
+
+## sharetechnote
+https://www.sharetechnote.com/html/5G/Handbook_5G_Index.html
